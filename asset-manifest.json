@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6ef12e03.css",
-    "main.js": "/static/js/main.81096443.js",
+    "main.js": "/static/js/main.e1767f27.js",
     "static/media/timelineHistory.png": "/static/media/timelineHistory.1b25da45ed4f0b7263b6.png",
     "static/media/pokeCafe.png": "/static/media/pokeCafe.c478249484dfad6fb8ed.png",
     "static/media/wideGaTech.jpg": "/static/media/wideGaTech.2ebb3a02c53427ca7168.jpg",
+    "static/media/hatch.png": "/static/media/hatch.ef38a55ff254041c5edb.png",
     "static/media/profile.jpg": "/static/media/profile.f401ef5c173fd1143e81.jpg",
     "static/media/tempo.png": "/static/media/tempo.1d874c038c97b25b52eb.png",
     "index.html": "/index.html",
     "main.6ef12e03.css.map": "/static/css/main.6ef12e03.css.map",
-    "main.81096443.js.map": "/static/js/main.81096443.js.map"
+    "main.e1767f27.js.map": "/static/js/main.e1767f27.js.map"
   },
   "entrypoints": [
     "static/css/main.6ef12e03.css",
-    "static/js/main.81096443.js"
+    "static/js/main.e1767f27.js"
   ]
 }
